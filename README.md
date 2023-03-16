@@ -2,7 +2,7 @@
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/D5616AQGBq2BP13E1VQ/profile-displaybackgroundimage-shrink_350_1400/0/1670484865071?e=1684368000&v=beta&t=Ug4AtEjdbpQFAD2lW8K_KIBGrh36fU2hb0ZRvJkqit4)
 
-I'm a positive, enthusiastic, and complete Full-Stack web developer.
+### I'm a positive, enthusiastic, and complete Full-Stack web developer.
 As a web developer, I have a passion for creating visually appealing, functional, and secure websites and web applications. With my expertise in HTML, CSS, JavaScript, React, Node.JS, Express.JS, and MongoDB I can develop powerful, high-performance web sites and web applications.  
 
 Skills: HTML/CSS/JavaScript/React/Node.JS/Express.JS/MongoDB
