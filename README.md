@@ -7,7 +7,7 @@ As a web developer, I have a passion for creating visually appealing, functional
 
 Skills: HTML/CSS/JavaScript/React/Node.JS/Express.JS/MongoDB
 
-- 🔭 ###I’m currently working on Skill Judge (Team Project) 
+- 🔭 I’m currently working on Skill Judge (Team Project) 
 - 🌱 I’m currently learning Redux, Node.JS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Skills 
