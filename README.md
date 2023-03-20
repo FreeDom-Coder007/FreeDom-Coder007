@@ -7,12 +7,12 @@ As a web developer, I have a passion for creating visually appealing, functional
 
 Skills: HTML/CSS/JavaScript/React/Node.JS/Express.JS/MongoDB
 
-###- 🔭 I’m currently working on Skill Judge (Team Project) 
-###- 🌱 I’m currently learning Redux, Node.JS 
-###- 👯 I’m looking to collaborate on Github 
-###- 💬 Ask me about Skills 
-###- 📫 How to reach me: afzalsharif623@gmail.com 
-###- ⚡ Fun fact: I love Video Games 
+- ###🔭 I’m currently working on Skill Judge (Team Project) 
+- 🌱 I’m currently learning Redux, Node.JS 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Skills 
+- 📫 How to reach me: afzalsharif623@gmail.com 
+- ⚡ Fun fact: I love Video Games 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FreeDom-Coder007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afzal-sharif-full-stack-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohummad.afzal.12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afzal-sharif.netlify.app/)  
